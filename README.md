@@ -5,3 +5,5 @@
 [fern.vim](https://github.com/lambdalisue/fern.vim) plugin that makes
 automatically select corresponding node in fern tree as the corresponding file
 is focused.
+
+![highlight](highlight.gif)
